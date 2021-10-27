@@ -6,31 +6,9 @@ To detect the human from videos, I used [```Videopose3D```](https://github.com/f
 
 <img src="examplepics\rh_move.png" alt="rhg_move" style="zoom:80%;" />
 
-<img src="examplepics\com_2.png" alt="c" style="zoom:50%; float: right;"/><img src="examplepics\com_1.png" alt="d" style="zoom:50%; float: left;" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="examplepics\com_1.png" alt="d" style="width:40%; float:left"/>  <img src="examplepics\com_2.png" alt="c" style="width:40%; float:right"/> 
+</p>
 
 ```COM_calculator.py``` and ```joint_angle_calculator.py``` calculated key parameters, including Centre of Mass and multiple angles of 9 key joints. 
 
@@ -38,4 +16,4 @@ To detect the human from videos, I used [```Videopose3D```](https://github.com/f
 
 ```getFileInfo.py``` and ```npy2csv.py``` are relevant tool scripts. 
 
-![shoulder_hip_angle](\examplepics\shoulder_hip_angle.png)
+<img src="examplepics\shoulder_hip_angle.png" alt="shoulder_hip_angle" style="zoom:80%;" />
