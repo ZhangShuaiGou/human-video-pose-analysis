@@ -4,9 +4,9 @@ This project aims to abstract key parameters from human postures and movements f
 
 To detect the human from videos, I used [```Videopose3D```](https://github.com/facebookresearch/VideoPose3D) and rebuilt the skeletons.
 
-<img src="D:\Coding\Github Local\human-video-pose-analysis\examplepics\rh_move.png" alt="rhg_move" style="zoom:80%;" />
+<img src="examplepics\rh_move.png" alt="rhg_move" style="zoom:80%;" />
 
-<img src="examplepics\com_2.png" alt="c" style="zoom:85%; float: right;"/><img src="D:\Coding\Github Local\human-video-pose-analysis\examplepics\com_1.png" alt="d" style="zoom:85%; float: left;" />
+<img src="examplepics\com_2.png" alt="c" style="zoom:85%; float: right;"/><img src="examplepics\com_1.png" alt="d" style="zoom:85%; float: left;" />
 
 
 
