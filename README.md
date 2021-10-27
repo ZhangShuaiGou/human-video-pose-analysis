@@ -38,4 +38,4 @@ To detect the human from videos, I used [```Videopose3D```](https://github.com/f
 
 ```getFileInfo.py``` and ```npy2csv.py``` are relevant tool scripts. 
 
-![shoulder_hip_angle](examplepics\shoulder_hip_angle.png)
+![shoulder_hip_angle](\examplepics\shoulder_hip_angle.png)
